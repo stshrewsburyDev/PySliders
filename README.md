@@ -4,7 +4,9 @@ A sliders add-on for PyGame
 ===========================
 
 #### Made by Steven Shrewsbury (stshrewsburyDev)
-#####Notice:
+
+##### Notice:
+
 This module is currently in pre-release 0.1 and there may be bugs.
 There are also features I plan to add in the future
 
