@@ -10,7 +10,7 @@ The PySliders module for Python 3
 ##### Notice:
 
 This module is currently in pre-release 0.1 and there may be bugs.
-There are also features I plan to add in the future
+There are also features I plan to add in the future.
 
 Screenshots:
 ------------
