@@ -1,7 +1,9 @@
 ![PySlidersLogo](https://stshrewsburydev.github.io/official_site/API/ProjectScreenshots/PySliders/PySlidersLogo.png)
 
-A sliders add-on for PyGame
-===========================
+The PySliders module for Python 3
+=================================
+
+##### A sliders add-on for PyGame
 
 #### Made by Steven Shrewsbury (stshrewsburyDev)
 
